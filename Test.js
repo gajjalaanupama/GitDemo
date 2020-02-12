@@ -34,7 +34,7 @@ it('Check the available card options for a Provider Patient',function(){
 		
 		//Patient Delete
 		cardoption.Deletepatient();
-
+		console.log("test");
 		browser.sleep(8000);
 
 	});	
